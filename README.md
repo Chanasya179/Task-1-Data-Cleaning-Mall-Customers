@@ -33,3 +33,9 @@ Clean and preprocess raw Mall Customers dataset using Python (Pandas).
 ## Result
 
 The dataset was cleaned, standardized, and prepared for analysis.
+
+
+
+## Open Notebook in Google Colab
+
+https://colab.research.google.com/github/Chanasya179/Task-1-Data-Cleaning-Mall-Customers/blob/main/MallSegmentation.ipynb
